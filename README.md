@@ -27,7 +27,9 @@
 ## Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CostaCesar&border_radius=5&currStreakNum=FFFFFF&dates=FFFFFF&background=000000&sideLabels=FFFFFF&sideNums=FFF124&ring=FF9100&fire=EBEBEB&stroke=770000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaCesar&layout=compact&theme=vision-friendly-dark&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaCesar&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaCesar&size_weight=0.5&count_weight=0.5&theme=highcontrast&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CostaCesar/CostaCesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
