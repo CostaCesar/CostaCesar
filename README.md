@@ -12,6 +12,12 @@
 
 🔥  Passionate Programmer <br>
 
+### I'm currently:
+
+📚 Finishing up my course <br>
+💼 Looking for an internship <br>
+👾 Developing a coop game <br>
+
 ## Technologies
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgrees" alt="Postgrees" width="40" height="40"/>&nbsp;
