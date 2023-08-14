@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=50&duration=3000&pause=2000&background=000000&color=%23C8BE25&center=false&vCenter=true&width=800&height=100&lines=~+$+sudo+Costa+Cesar;~+$+Hello+There!;~+$+Welcome+to+my+Github+page;~+$+Enjoy+&hearts;"></a>
+</p>
 
 ## Technologies
 <div>
