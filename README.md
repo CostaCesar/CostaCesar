@@ -52,7 +52,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
+## Contact
 
+<div align='center'>
+
+<a href="https://www.linkedin.com/in/caio-césar-moraes-costa-4b727b254/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UC9ZxNQyQfIWTrrTjB2OtRBg" target="_blank">
+<img src="https://img.shields.io/badge/Youtube-%2300acee.svg?color=FF0000&style=for-the-badge&logo=youtube&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+
+<a href="mailto:caiocaesarmcosta@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+</div>
 
 <!--
 **CostaCesar/CostaCesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
