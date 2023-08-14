@@ -18,6 +18,16 @@
 💼 Looking for an internship <br>
 👾 Developing a coop game <br>
 
+## Stats
+
+<div align="center">
+<a href="https://github.com/CostaCesar/">
+  <img src="https://github-readme-stats.vercel.app/api?username=CostaCesar&theme=highcontrast&include_all_commits=true&count_private=true&show_icons=true&line_height=20" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CostaCesar&line_height=20&size_weight=0.5&count_weight=0.5&layout=compact&theme=highcontrast&hide=ShaderLab,HLSL" width="385"/>
+  <img src="https://streak-stats.demolab.com?user=CostaCesar&border_radius=5&currStreakNum=FFFFFF&dates=FFFFFF&background=000000&sideLabels=FFFFFF&sideNums=FFF124&ring=FF9100&fire=EBEBEB&stroke=770000" width="575"/>
+</a>
+</div>
+
 ## Technologies
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgrees" alt="Postgrees" width="40" height="40"/>&nbsp;
@@ -42,12 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CostaCesar&border_radius=5&currStreakNum=FFFFFF&dates=FFFFFF&background=000000&sideLabels=FFFFFF&sideNums=FFF124&ring=FF9100&fire=EBEBEB&stroke=770000)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostaCesar&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CostaCesar&size_weight=0.5&count_weight=0.5&theme=highcontrast&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CostaCesar/CostaCesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
