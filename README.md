@@ -24,6 +24,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
+## Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CostaCesar&border_radius=5&currStreakNum=FFFFFF&dates=FFFFFF&background=000000&sideLabels=FFFFFF&sideNums=FFF124&ring=FF9100&fire=EBEBEB&stroke=770000)](https://git.io/streak-stats)
+
 <!--
 **CostaCesar/CostaCesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
