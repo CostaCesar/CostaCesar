@@ -12,7 +12,7 @@
 
 🔥  Passionate Programmer <br>
 
-### I'm currently:
+#### I'm currently:
 
 📚 Finishing up my course <br>
 💼 Looking for an internship <br>
