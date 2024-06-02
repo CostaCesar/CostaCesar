@@ -8,13 +8,13 @@
 
 🌎  Brazil <br>
 
-🎓  COLTEC-UFMG <br>
+🎓  Computer Science - UFMG <br>
 
 🔥  Passionate Programmer <br>
 
 #### I'm currently:
 
-📚 Finishing up my course <br>
+📚 Learning Linux <br>
 💼 Looking for a job <br>
 👾 Developing an emulator <br>
 ⚙️ Programing a PLC app <br>
